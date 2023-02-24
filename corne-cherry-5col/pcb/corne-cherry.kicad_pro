@@ -49,7 +49,9 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "hole_clearance|250507500|45265500|c9d95088-2b9c-4031-8d65-f250fe9a7a4d|36bb98c6-32a3-433f-ae61-6a99f94c18a3"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
